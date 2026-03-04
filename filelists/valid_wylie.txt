@@ -1,0 +1,588 @@
+DUMMY1/SP02-OTR002-01-B-1366.wav|gsum dri 'bur thon brnyan par zhig a h+phu g+han ni si than gyi sa cha de rang la  
+DUMMY1/SP02-OTR002-01-A-0119.wav|nye char thon pa'i don rkyen 'di ni sa mtshams kyi dbye mtshams rtags 'di skabs shig ring med pa chags pa dang 'brel ba chags yod la 
+DUMMY1/SP02-OTR002-02-A-145.wav|ri bong glo bur du dran pa sos pa ltar langs nas nags gseng du bros phyin pa red 
+DUMMY1/SP02-OTR002-01-B-0970.wav|mchod rten mtho po dang sangs rgyas thub pa'i sku brnyan ha cang mang po 
+DUMMY1/SP02-OTR002-09-A-86.wav|rgyud smad la zhugs te sngags la sbyangs pa mthar phyin par mdzad pas sngags la mkhas pa'i mtshan snyan chen por gyur pa red 
+DUMMY1/SP02-OTR002-04-A-004.wav|rab tu byung ba'i mtshan la tshul khrims rgyal ba zhu zhing 
+DUMMY1/SP02-OTR002-01-A-0204.wav|dad pa zhu yul ni bod brgyud nang pa sangs rgyas pa'i bstan pa 'di yin pa ma zad 
+DUMMY1/SP02-OTR002-01-A-0831.wav|bal yul gyi phyogs tshang ma'i shugs rkyen med pa zhig yin srid kyi ma red 
+DUMMY1/SP02-OTR002-01-B-0474.wav|dra rgya ni dngos gnas ha las dgos pa zhig yin pa khas len ma byed rang byed red 'dug 
+DUMMY1/SP02-OTR002-01-B-1067.wav|gcig byas na khong gi gcen po tsho  
+DUMMY1/SP02-OTR002-02-B-114.wav|ngas las gang byas kyang rung  
+DUMMY1/SP02-OTR002-01-A-1609.wav|dbugs ring btang nas stabs legs pa zhig la  
+DUMMY1/SP02-OTR002-06-B-095.wav|gru la skyon cha 'dra byung na ci byed”  
+DUMMY1/SP02-OTR002-03-B-216.wav|phyis su zhang pos gang zer gyi kha la nyan 
+DUMMY1/SP02-OTR002-01-B-0485.wav|hippiezer lo rabs drug bcu bdun bcu'i nang thon pa'i snang ba skyid pa'i mi sna de rigs kyi phyi tshul rnam pa dang 'dra ba de 'dra ma red 
+DUMMY1/SP02-OTR002-06-A-042.wav|khong gis ra lug 'tsho ba'i zhor du 
+DUMMY1/SP02-OTR002-02-C-092.wav|mtshams shig nas bod kyi mang tshogs khrod 'ur 'drogs chen po byung bar ma zad 
+DUMMY1/SP02-OTR002-01-A-1721.wav|de min dngos yod kyi mthun rkyen mi gdeng pa'i rkyen gyis  
+DUMMY1/SP02-OTR002-08-A-155.wav|zer nas zhu ba 'then 
+DUMMY1/SP02-OTR002-02-B-005.wav|chos rgyal khri srong lde btsan 
+DUMMY1/SP02-OTR002-01-A-0231.wav|thad 'phur gnam gru bsdad pa sogs lam thag ring po brgyud de bzhugs sgar rda ram sa lar 'byor pa dang  
+DUMMY1/SP02-OTR002-03-B-222.wav|rta rgyug thub pa yin na rta sga srab dang bcas pa khyod la 'bul zer nas u tshugs byas pa na 
+DUMMY1/SP02-OTR002-01-A-1700.wav|de bas gting zab pa'i lta zhib dgos kyi yod 
+DUMMY1/SP02-OTR002-01-B-0264.wav|yang sprin smug 'di skya lhang lhang zhig 'dug pas 
+DUMMY1/SP02-OTR002-08-C-067.wav|yang nyin zhig mar pa mi la yod sar phebs te 
+DUMMY1/SP02-OTR002-01-B-0713.wav|gus mo'i bsam 'dun 'di 'grub pa'i go skabs yod med ngas shes kyi med 
+DUMMY1/SP02-OTR002-07-A-012.wav|kun las rna par brgal te 
+DUMMY1/SP02-OTR002-01-B-0499.wav|gle mi nas 'phros pa'i sgrung gtam ste 
+DUMMY1/SP02-OTR002-06-A-128.wav|khyim tshang re nas mi re nges par dmag la yong dgos 
+DUMMY1/SP02-OTR002-02-C-230.wav|bka' slob zhu ba'i skabs 
+DUMMY1/SP02-OTR002-04-A-002.wav|nag tsho lo tsa ba tshul khrims rgyal ba ni 
+DUMMY1/SP02-OTR002-01-A-1891.wav|pe cing nas yong ba'i rgya nag gi 'gag sgo zhes pa'i dus deb kyi rtsom sgrig pa dang mnyam du lha sa nas 'gram 'gag sgo bar skyod myong yod 
+DUMMY1/SP02-OTR002-01-B-0378.wav|gal che'i yong bab kyang chags kyi yod 
+DUMMY1/SP02-OTR002-01-A-1756.wav|gus mos gtso bo ni khong gi spo bo lags kyi gcung po rtsad gcod byas pa tsam red 
+DUMMY1/SP02-OTR002-01-A-1409.wav|gang bsam tshad kyi thog nas gsar bzo'i rtsom sgrig sna tshogs bya rgyu 'di ma red 
+DUMMY1/SP02-OTR002-01-A-0324.wav|sbi ran ta ra 'jigs skul gyi mdun dpa' zhum yod 
+DUMMY1/SP02-OTR002-01-A-0846.wav|khong tsho'i khrod dang len dang khongs gtogs kyi rnam pa de bas zab pa yod pa ma zad 
+DUMMY1/SP02-OTR002-01-A-0057.wav|de bzhin sa mtshams brgal nas dngos zog dbor 'dren gyi rnam pa gsar pa zhig thon yod 
+DUMMY1/SP02-OTR002-01-B-0767.wav|sku na mtho ru phebs pa dang zhal mdangs ni gsung rab nang gsung pa'i grub pa thob pa bzhin 'dug 
+DUMMY1/SP02-OTR002-08-B-114.wav|nyes med sems can khri stong mang po thos pa dga' rang gi mthu byad la brten nas shi yod pa'i gnas tshul mthong ba'i skabs 
+DUMMY1/SP02-OTR002-08-C-027.wav|rang gi lus srog longs spyod yongs rdzogs blos btang ste 
+DUMMY1/SP02-OTR002-08-C-174.wav|zhal 'dzum mdangs dang bcas 
+DUMMY1/SP02-OTR002-01-A-0592.wav|stan mumford yi lta tshul 'di  
+DUMMY1/SP02-OTR002-01-B-0224.wav|gus mo hang sangs nas brjod par 
+DUMMY1/SP02-OTR002-01-A-0985.wav|la la zhig ni shon 'khrab pa dang  
+DUMMY1/SP02-OTR002-01-B-0033.wav|gus mo kha skyengs po bzos byung  
+DUMMY1/SP02-OTR002-01-A-1396.wav|khong gi dran pa nyams pa 'dir bzo bcos kyis gtan 'khel zhig byas yod sa red 
+DUMMY1/SP02-OTR002-01-A-1117.wav|da cha pi ti dang yang na gu ge'i chu rgyun skam pa'i lung shur dang  
+DUMMY1/SP02-OTR002-01-B-0976.wav|rgyas spros kyang med na yang gser 'od chem chem gyi glog 'od khang pa'i nang khengs shing  
+DUMMY1/SP02-OTR002-02-C-151.wav|ba ro'i tsa na'i gos lham gyon du bcug 
+DUMMY1/SP02-OTR002-05-A-67.wav|lo tsa bas shin tu gus pa'i nyams dang bcas 
+DUMMY1/SP02-OTR002-01-A-2022.wav|btsan byol gyi chos phyogs kyi dbu khrid ces pa'i rtsom yig 'di  
+DUMMY1/SP02-OTR002-01-A-1981.wav|rgyang thag ring po ga tshod yod rung thos mi thub pa med pa ltar  
+DUMMY1/SP02-OTR002-09-A-07.wav|slob gnyer pa kun gyi mig dper 'os pa zhig tu gyur yod pa red 
+DUMMY1/SP02-OTR002-03-B-096.wav|rnga mo chu shul gyi ltad mo da lo khyed rang gi jo jos sbyin bdag byas te tshugs rgyu'i gra sgrig byed bzhin yod 
+DUMMY1/SP02-OTR002-01-A-0288.wav|ngas bskyar du  
+DUMMY1/SP02-OTR002-01-B-0901.wav|nub pa rin po che gangs rin po che mjal bar phebs pa dang dus mtshungs gle mi khul du phebs pa'i skabs de dus yin dgos kyi red 
+DUMMY1/SP02-OTR002-07-A-145.wav|gyu thog yon tan mgon po lo na bcu grangs las son med kyang 
+DUMMY1/SP02-OTR002-01-A-0721.wav|da dung bzhugs su srol ba'i gna' bo'i sku 'dra mjal rgyu 'dug la 
+DUMMY1/SP02-OTR002-08-C-049.wav|mar pas 
+DUMMY1/SP02-OTR002-01-B-0469.wav|khong gi dbu skra ral pa 'dir mtshams skra zer 'bod kyi yod cing  
+DUMMY1/SP02-OTR002-01-A-0538.wav|de bas mang ba'i shes rtogs yong ba'i bsam blo thog nas  
+DUMMY1/SP02-OTR002-04-A-054.wav|'on kyang khyed lo tsa ba nus shing 'jon pa rnams kyis spyi don ris su bor tshe 
+DUMMY1/SP02-OTR002-01-B-0230.wav|bod pa'i gom srol thog nas nga la bzhes tshig bed spyad de thugs rje che zer gsungs 'dug la 
+DUMMY1/SP02-OTR002-08-C-179.wav|lung bstan dang bsngags brjod mdzad pa red 
+DUMMY1/SP02-OTR002-05-A-85.wav|grol nas 'dren par kho bos 'tshal 
+DUMMY1/SP02-OTR002-01-A-1120.wav|yang na spyi tshogs dang bral nas kher rkyang du gnas pa'i sgom khang khrod  
+DUMMY1/SP02-OTR002-02-A-125.wav|'dis khyod la gsod dgos pa'i bya ba ngan pa ci zhig byas byung”zer nas mig chu 'don bzhin bka' bkyon gnang 
+DUMMY1/SP02-OTR002-01-B-0685.wav|de dus slob gling 'di gra sgrig gi rnam pa'i thog gnas yod 
+DUMMY1/SP02-OTR002-01-B-0859.wav|chag ro ga tshod tsam la cha shas zer brjod kyi yod pa red dam 
+DUMMY1/SP02-OTR002-01-A-0922.wav|ma shi ma chad na 
+DUMMY1/SP02-OTR002-01-B-0319.wav|'gro ba mi'i rigs kyi rig pa ba melvyn goldsteingyi rtsom yig  
+DUMMY1/SP02-OTR002-01-A-0289.wav|gangs can yul nas btsan byol du gyar ba zhu ba'i gus mo'i klad pa yang bskyar phar 'khrus pa'i dpe deb thog ma 'di kha phye skabs  
+DUMMY1/SP02-OTR002-01-B-0006.wav|sgrol dkar nas bod yig thog phab bsgyur gyis snyan sgron zhu gi yin 
+DUMMY1/SP02-OTR002-01-A-1501.wav|smad cha 
+DUMMY1/SP02-OTR002-01-A-1796.wav|gnam gshis 'gyur ldog gis mthong rgyu yod pa'i chos lugs kyi rgyu nor la nyen kha 'phrad rgyu ma zad 
+DUMMY1/SP02-OTR002-01-B-0815.wav|rin chen gling zhu ba'i dgon pa der lo ngo stong yan gyi lo rgyus yod 'dug 
+DUMMY1/SP02-OTR002-01-B-1453.wav|khor yug srung skyob kyi mo kra nyo sgrub 
+DUMMY1/SP02-OTR002-01-A-1299.wav|ha cang dka' tshegs chen po'i thog nas  
+DUMMY1/SP02-OTR002-01-A-0940.wav|gangs rin po che nas rgyal khams 'grim te phebs mkhan dge 'dun pa zhig 'phrad pa dang  
+DUMMY1/SP02-OTR002-07-A-166.wav|gso rig gi shes bya dang 
+DUMMY1/SP02-OTR002-01-B-0801.wav|go rtogs sad thub yod pa gsal po red 
+DUMMY1/SP02-OTR002-02-B-021.wav|rgyal pos thugs re gnang bzhin pa ltar bsam yas kyi slob gnyer pa 'di tsho la ngas kyang re ba chen po byed kyi yod 
+DUMMY1/SP02-OTR002-01-B-0304.wav|nga tsho'i dngos zog yongs rdzogs spu phreng nas 'khyer yong gi yod par brten nga tsho rgya nag gi mi la zhed snang bya don 'di yin 
+DUMMY1/SP02-OTR002-01-B-0299.wav|ngas sgug nas bsdad pa las mu mthud skad cha dris med la 
+DUMMY1/SP02-OTR002-01-A-1697.wav|ma 'ongs par bgrod shul gang 'dra zhig yong min thad  
+DUMMY1/SP02-OTR002-03-B-168.wav|da khyod kyis nga'i kha la mi gsan par cis kyang 'byon na 
+DUMMY1/SP02-OTR002-01-A-0065.wav|man ju'u ching gi rogs ram thob thabs byas shing  
+DUMMY1/SP02-OTR002-06-A-007.wav|blo rig rno ba zhig yin pas 
+DUMMY1/SP02-OTR002-01-B-0012.wav|gus mos gzhi nas gnas ri gangs rin po cher thag nye po'i thog nas  
+DUMMY1/SP02-OTR002-03-A-064.wav|chos kyi blo gros thog zhe bsun te 
+DUMMY1/SP02-OTR002-01-B-0274.wav|'dra par steng du rin po che dar ma zhig 'dug 
+DUMMY1/SP02-OTR002-01-B-0627.wav|ye shes kyi spyan dang thugs skyo snang ngang gnas mchog 'di nyams gso gnang rgyu'i don snying gsal po mkhyen nas  
+DUMMY1/SP02-OTR002-01-A-1933.wav|spyi lo nyis stong nyi shu rtsa gcig lo'i zla ba bzhi pa'i zla mjug la mthong pa'i gsar 'gyur zhig ni  
+DUMMY1/SP02-OTR002-06-A-168.wav|'on kyang khyod kyi khyim du a pha dang jo jo gnyis ka yod bzhin 
+DUMMY1/SP02-OTR002-01-A-1169.wav|chung dus pha yul spu hreng gi grong tsho'i nang  
+DUMMY1/SP02-OTR002-01-B-1408.wav|gangs rin po cher nges par du gangs skor skor ra phyi ma bcu gsum brgyab pa'i rjes gzhi nas nang skor rgyag sar skyod thub cing  
+DUMMY1/SP02-OTR002-01-B-0258.wav|gang 'dra zhu dgos red dam zhes khong gis mu mthud brjod par 
+DUMMY1/SP02-OTR002-01-A-0750.wav|smad cha 
+DUMMY1/SP02-OTR002-03-A-051.wav|bu slob dpon zhig gi sar bskyal nas klog slob tu bcug 
+DUMMY1/SP02-OTR002-02-B-055.wav|dam chos mang po bsgyur nas phyir 'byon thub pa  
+DUMMY1/SP02-OTR002-01-A-1584.wav|bar chad 'gal rkyen bzos yod pa yin rung  
+DUMMY1/SP02-OTR002-08-C-158.wav|thos pa'i don la bsam pa dang 
+DUMMY1/SP02-OTR002-01-A-0003.wav|btsan byol gyi chos phyogs kyi dbu khrid 
+DUMMY1/SP02-OTR002-02-C-223.wav|'on kyang de ring rgyal po chen pos 
+DUMMY1/SP02-OTR002-06-B-110.wav|lcags zam 'dzugs pa'i thabs shes shig byed dgos kyi 'dug 
+DUMMY1/SP02-OTR002-06-A-055.wav|rang nyid lan mang grod pa stong par sdod kyi yod pa red 
+DUMMY1/SP02-OTR002-06-A-157.wav|skabs mang por bza' btung gang yang mi rag pa'i dka' ngal sna tshogs myong dgos thug gi yod kyang 
+DUMMY1/SP02-OTR002-01-A-1272.wav|'di tsho tshang ma rnying rul zhig yin par brtsis nas deng dus dang dar srol min la 
+DUMMY1/SP02-OTR002-02-C-185.wav|gsang sngags kyi slob dpon chen po ba ro tsa na bod dbus su bzhugs thub med kyang 
+DUMMY1/SP02-OTR002-01-B-1295.wav|de snga dgon par bca' sdod las byed pa bya myong yod pa red 
+DUMMY1/SP02-OTR002-01-A-1535.wav|skor lam 'dir dbang ba'i 'brel yod kyi grub cha'i cha shas su gyur pa'i tshong khrom bshams mkhan yongs rdzogs gnas spo byed bcug pa 
+DUMMY1/SP02-OTR002-01-B-1254.wav|gcig byas na gna' snga mo'i rgyal po'i pho brang dang 'brel ba yod pas yin gyi red 
+DUMMY1/SP02-OTR002-01-A-0490.wav|ha'e ti ha'e 
+DUMMY1/SP02-OTR002-01-B-0920.wav|karma bka' rgyud la nor ma 'gran 
+DUMMY1/SP02-OTR002-04-A-044.wav|mdzad pa rlabs che yang 
+DUMMY1/SP02-OTR002-02-A-133.wav|a mas gtan nas gsan gyi med pa red 
+DUMMY1/SP02-OTR002-01-A-0098.wav|sa mtshams su khe lo rmi dar sum bcu nang tshud la yod pa'i bal yul gyi mis  
+DUMMY1/SP02-OTR002-01-A-0494.wav|yang kung su'u yi deb nang la yang glo smon thang gleng 'dug 
+DUMMY1/SP02-OTR002-01-A-0284.wav|de bzhin gnas ri'i lho ngos kyi gle mi'i bod mi dang btsan byol gyi chos phyogs kyi dbu khrid 
+DUMMY1/SP02-OTR002-06-A-028.wav|le'u dang po 
+DUMMY1/SP02-OTR002-06-B-015.wav|yab kyis 
+DUMMY1/SP02-OTR002-09-A-18.wav|dbus su slob sbyong la 'bad pa lhod med dgos pa dang 
+DUMMY1/SP02-OTR002-01-A-1073.wav|lha mo 
+DUMMY1/SP02-OTR002-08-B-038.wav|pe tas bshad pa ji bzhin 
+DUMMY1/SP02-OTR002-01-A-1040.wav|'khrul med kyi shon ngo mar 'khrab stangs thad gtan 'bebs nan po yod pas 
+DUMMY1/SP02-OTR002-01-A-1139.wav|de bzhin dad sems 'di bsam pa'i 'jig rten dang nyin re'i 'tsho ba'i nang gting zab ngang rim pas bsags pa zhig chags yod 
+DUMMY1/SP02-OTR002-01-A-1165.wav|dus yun ring la bskyar zlos byed pa'i gzhas kyi khrod ha lam tshang ma rgyab mdun dal po'i ngang nas 'gul ba dang  
+DUMMY1/SP02-OTR002-09-A-29.wav|ngas skye ba 'dir dpe cha 'di dag gi nang don gting phyin pa zhig go rgyu ma red snyam nas 
+DUMMY1/SP02-OTR002-07-A-128.wav|go rtogs spel res gnang na yag po 'dug bsam pa yin 
+DUMMY1/SP02-OTR002-01-B-1199.wav|'bri gung skyabs mgon che tshang rin po ches gsar rnyed thub gnang pa der don snying ha cang chen po zhig ldan yod 
+DUMMY1/SP02-OTR002-08-C-100.wav|nyin zhig mar pa khro ba'i nyams dang bcas phebs te 
+DUMMY1/SP02-OTR002-08-C-170.wav|dngos su za dgos pa lta bu yin pa'i gnas lugs rtogs byungbas 
+DUMMY1/SP02-OTR002-05-A-42.wav|lo tsa rin chen bzang pos jo bo rang gi bzhugs gnas su gdan drangs 
+DUMMY1/SP02-OTR002-01-A-0680.wav|gus mos snyan ngag cig nang 'di ltar bris yod pa ste 
+DUMMY1/SP02-OTR002-01-A-1962.wav|de bas 'ur sgra shig shig dang glog 'od chem chem gyi 'khrab ston thog nas mthong myong yod la 
+DUMMY1/SP02-OTR002-04-A-091.wav|mchi ma ma 'byin 
+DUMMY1/SP02-OTR002-01-B-1414.wav|sems 'gul thebs pa'i dmangs khrod kyi gtam brgyud mang po byung yod pa dper na 
+DUMMY1/SP02-OTR002-01-B-1260.wav|nye khor du sgom sgrub nyams len pa ha cang mang po yod cing  
+DUMMY1/SP02-OTR002-02-A-113.wav|ngas rde'u zhig 'phangs pa dang 
+DUMMY1/SP02-OTR002-01-B-1385.wav|yang ri mo 'bri mkhan ni gus mos ha cang dga' mos yod pa'i dmigs bsal skyes thob kyi nus pa ldan la 
+DUMMY1/SP02-OTR002-01-B-0099.wav|bkag 'gog 'phrad pa der 'gog thabs kyi nus pa gang yang med pa ste 
+DUMMY1/SP02-OTR002-01-B-0285.wav|yang khong gis 'dra par zhig btang pa dang  
+DUMMY1/SP02-OTR002-01-B-0641.wav|sa gnas 'dir 'bri gung bka' rgyud kyi dgon pa lnga bcu lhag tsam yod 'dug 
+DUMMY1/SP02-OTR002-02-A-126.wav|ba ros nan tan chen pos a ma'i gdong la lta bzhin 
+DUMMY1/SP02-OTR002-01-B-0013.wav|yid tshim po'i ngang mjal kha byung pa'i skabs der tshor snang gang 'dra zhig byung yod dam zhus na 
+DUMMY1/SP02-OTR002-01-A-1197.wav|thos myong yod pa'i shon da lta mig mdun mthong thos dus de snga dang gcig pa red 'dug 
+DUMMY1/SP02-OTR002-01-A-0378.wav|'jab rgol dmag gi 'go khrid kyi shul bzhag dngos rdzas la lta ba'i ched du red 
+DUMMY1/SP02-OTR002-01-B-1117.wav|dmigs bsal gyi don snying ldan pa'i dus tshod 'dis  
+DUMMY1/SP02-OTR002-02-C-147.wav|mtha' ma ba ro tsa na yar klung gtsang po'i nang gyug rgyu'i gros thag bcad pa red 
+DUMMY1/SP02-OTR002-07-A-030.wav|skabs der nad pa bgres song a ra dkar seng nger yod pa zhig gis 
+DUMMY1/SP02-OTR002-04-A-102.wav|jo bos 
+DUMMY1/SP02-OTR002-01-B-0694.wav|'dzin grwa'i 'gan 'khur ba gnang myong yod pa'i ra sgreng rin po che ni pan chen ru tshogs chung ba zer ba'i gtso bo gras la ngos 'dzin byed kyi yod pas 
+DUMMY1/SP02-OTR002-01-B-0678.wav|gus mos de ma thag tu sems nang dran pa ni gzhon nu lo chung gi sprul sku'i 'dzin grwa zer ba'i sngon ma'i gnas tshul de red 
+DUMMY1/SP02-OTR002-01-A-1202.wav|sems 'gul thebs nas ngu shor ba dang  
+DUMMY1/SP02-OTR002-03-B-131.wav|'di ltar phyin na 
+DUMMY1/SP02-OTR002-02-C-227.wav|ces ba ro tsa na sa mtha' la gnas dbyung btang bar le 'ded kyi rnam 'gyur dang bcas 
+DUMMY1/SP02-OTR002-01-B-1326.wav|'bri gung bka' rgyud kyi sku gdung mchod rten zhig kyang yin pa dang  
+DUMMY1/SP02-OTR002-02-B-068.wav|de bas na sangs rgyas kyi chos gzhung rnams bod kyi skad yig thog phab bsgyur bya ba'i don du 
+DUMMY1/SP02-OTR002-02-B-041.wav|bod kyi rgyal 'bangs mi ser dang bcas pas rang gi skad dang yi ge'i thog nas  
+DUMMY1/SP02-OTR002-07-A-135.wav|zhes gsungs te dngos su tshogs 'du dbu 'dzugs byed bcug 
+DUMMY1/SP02-OTR002-01-B-0145.wav|de bzhin 'dra par gcig gi thog khong gi rgyab 'dir 'bri gyag nag po zhig 'dug cing  
+DUMMY1/SP02-OTR002-06-A-160.wav|bu phrug 'di lo na chung yang snying stobs zhum pa med cing 
+DUMMY1/SP02-OTR002-01-B-0597.wav|phyag dpe 'di'i don ngo ma'i bdag po ste 'bri gung bka' rgyud kyi skyabs mgon la bskyar du phyir logs phyag son thub pa dang  
+DUMMY1/SP02-OTR002-01-B-0769.wav|de'i nang bris gnang par 
+DUMMY1/SP02-OTR002-07-A-038.wav|dbul po dang nyam thag tsho la dmigs bsal byams brtses sman sbyin nad bcos mdzad bzhin yod 
+DUMMY1/SP02-OTR002-01-A-0303.wav|klad pa 'khrus nas lta tshul gsum gtan 'khel ba'i sgrom gzhi'i nang bcug pa 'di  
+DUMMY1/SP02-OTR002-02-A-087.wav|ba ro tsa na'i rtsed rdo ri bong la phog pa 
+DUMMY1/SP02-OTR002-02-A-195.wav|'o na khyod pha ma sogs dang kha bral nas 
+DUMMY1/SP02-OTR002-07-A-160.wav|gzhon nu 'di mkhyen yon dang nyams myong gis lhag par ma zad 
+DUMMY1/SP02-OTR002-05-A-24.wav|skabs der bod kyi lo tsa ba mang po zhig gis rang nyid las yon tan che ba med pa'i nga rgyal byed kyi yod stabs 
+DUMMY1/SP02-OTR002-07-A-113.wav|rgyal po blon po zhig dang mnyam du pho brang gi tshom khang du phebs te rgyal khri la 'khod pa red 
+DUMMY1/SP02-OTR002-02-C-030.wav|pan+di ta bgres po ag tshom can zhig gis cung khro ba'i nyams dang bcas 
+DUMMY1/SP02-OTR002-02-B-025.wav|bod mi lo tsa ba tshad ldan skor zhig 'tshar longs yong gi red 
+DUMMY1/SP02-OTR002-01-A-0202.wav|gus mos thog ma mthong byung  
+DUMMY1/SP02-OTR002-01-A-1106.wav|gzhas tshig gi nang don nas bltas na 
+DUMMY1/SP02-OTR002-01-A-0480.wav|btsan byol bod mi bsod rdor lags kyis phyir dran gnang par 
+DUMMY1/SP02-OTR002-01-B-0972.wav|gser 'od chem chem du 'phro ba'i ma ne 'khor lo bcas 'dug cing  
+DUMMY1/SP02-OTR002-01-A-2005.wav|de bas 'khrug rkyen slong ba'i rang bzhin 'thab jus shugs che ba ldan yod 
+DUMMY1/SP02-OTR002-01-B-1460.wav|gnas skor la skyod pa 'di ni dad ldan pa mang po'i mi tshe'i nang gi med du mi rung ba'i myong ba zhig chags kyi yod 
+DUMMY1/SP02-OTR002-03-B-159.wav|bu a ma'i kha la nyan nas yar log shog”ces shin tu nan pos gsungs pa na 
+DUMMY1/SP02-OTR002-02-C-128.wav|tshogs 'du'i thog ngam ta ra klu gong gis ngar shugs chen pos 
+DUMMY1/SP02-OTR002-08-A-184.wav|nyin shas ring ma bu rnams kyis thos pa dga' la lam chas bsgrigs 
+DUMMY1/SP02-OTR002-01-B-0662.wav|'bri gung skyabs mgon che tshang rin po ches mkhyen rtogs gnang bar bka' drin che zhu rgyu dang  
+DUMMY1/SP02-OTR002-02-B-078.wav|shin tu mnyes pa'i ngang nas 
+DUMMY1/SP02-OTR002-05-A-63.wav|bod la khyed lta bu'i mkhas pa yod pa red bsam pa ma byung 
+DUMMY1/SP02-OTR002-01-B-0561.wav|zur nas lta mkhan gyi rnam pa zhig rang red 
+DUMMY1/SP02-OTR002-01-B-1019.wav|su zhig kyang med par khong gcig pu las lhag med par brten khong gis sems sdug ngang ngus nas lus yod 
+DUMMY1/SP02-OTR002-01-A-1665.wav|phan thogs kyi med pa red 
+DUMMY1/SP02-OTR002-03-B-132.wav|yab kyis bka' bkyon phebs nges par ma zad 
+DUMMY1/SP02-OTR002-01-A-1583.wav|sa gnas rang gi mi tsho'i 'tsho bar  
+DUMMY1/SP02-OTR002-02-C-206.wav|rgya gar nas bskyar du pan+di ta zhig gdan 'dren rgyur 'dod pa med kyang 
+DUMMY1/SP02-OTR002-01-A-1564.wav|gsar gtod gsar pa'i ya mtshan zer ba 'di'i thog nas  
+DUMMY1/SP02-OTR002-01-A-1236.wav|spyi lo nyis stong nyi shu rtsa gcig lo'i rgya mi'i lo gsar dang bod pa'i lo gsar gyi dga' ston mtshan tshogs zer ba 'di'i thog nas  
+DUMMY1/SP02-OTR002-06-A-162.wav|ces dmag mi rnams kyi khrod shin tu snyan grags chen por gyur pa red 
+DUMMY1/SP02-OTR002-01-A-0508.wav|bal yul gzhung gis ngo log zing 'khrug slong mkhan gyi las 'gul la stangs 'dzin dgos pa ma zad 
+DUMMY1/SP02-OTR002-01-A-0236.wav|phar tshur rgyugs bzhin yod pa'i bod phrug mang po'i slob grwa'i nang gom pa spos yod 
+DUMMY1/SP02-OTR002-01-A-0710.wav|da dung rin chen gling dgon par dgongs pa rdzogs yod 'dug 
+DUMMY1/SP02-OTR002-01-B-1355.wav|tha na rdzas me bed spyod byas te dgon pa rtsa med bzo don gang yin 
+DUMMY1/SP02-OTR002-08-A-016.wav|mi su la yang mi tshe'i nang nor 'khrul 'byung srid kyang 
+DUMMY1/SP02-OTR002-02-A-064.wav|bu rang gi pang du blangs te byams po byas 
+DUMMY1/SP02-OTR002-01-B-1105.wav|kha bral ba'i nang mi spun mched mnyam 'dzoms yong ba'i go skabs shig gnang yod 
+DUMMY1/SP02-OTR002-01-A-0622.wav|dngos gnas phyogs mang po'i thog nas bod phud pa'i bod zer ba zhig mngon thub kyi 'dug pa ste 
+DUMMY1/SP02-OTR002-03-B-013.wav|kho mi mchog dman bzang ngan su dang thug kyang 
+DUMMY1/SP02-OTR002-01-A-0050.wav|ri lam kyag kyog gi lung stong gi hi ma la ya'i ri brgyud las grub pa zhig yin pas 
+DUMMY1/SP02-OTR002-09-A-47.wav|gzhung gi go ba dang 
+DUMMY1/SP02-OTR002-03-B-090.wav|sras dar ma mdo sdes yum gyi bslab byar ma gsan pa 
+DUMMY1/SP02-OTR002-01-A-0586.wav|'on kyang skyon brjod byas pa de'i thog nas  
+DUMMY1/SP02-OTR002-01-A-0805.wav|bod phud pa'i bod zer ba'i bshad stangs 'di che ru gtong mi rung ba zhig red 
+DUMMY1/SP02-OTR002-01-B-0943.wav|'jig rten gsum mgon gyis lo ngo brgyad brgya lhag tsam sngon gsar gtod gnang pa zhig yin pa dang  
+DUMMY1/SP02-OTR002-01-A-1805.wav|rtse gcig tu 'debs rgyu yin 
+DUMMY1/SP02-OTR002-01-A-1269.wav|dal zhing lhod pa'i zhabs bror bag gyeng tsha drag na nor 'dzol yong rgyu 
+DUMMY1/SP02-OTR002-01-B-0186.wav|stes dbang gis 'phrad pa'i rgyal khams 'grim nas phebs mkhan dge 'dun pa khong  
+DUMMY1/SP02-OTR002-01-A-1811.wav|de yang rtsom yig 'di'i 'bri rtsom gyi brgyud rim nang  
+DUMMY1/SP02-OTR002-06-B-039.wav|rang rgyud kyi nyon mongs dug gsum dang 
+DUMMY1/SP02-OTR002-01-A-1286.wav|shon 'khrab ston byed pa'i skabs de sngon bed spyod byed myong med pa'i rol cha'i nang  
+DUMMY1/SP02-OTR002-06-A-027.wav|bod kyi mang tshogs mtho dman kun la bka' drin che ba'i skyes bu dam pa zhig kyang yin 
+DUMMY1/SP02-OTR002-07-A-021.wav|sman pa bka' bcu pa 
+DUMMY1/SP02-OTR002-01-A-1211.wav|shon la de snga byung myong med pa'i mthong chen thob ste yo bsrang tshad las brgal ba byas shing  
+DUMMY1/SP02-OTR002-07-A-158.wav|bod la 'di lta bu'i gzhon nu mkhyen yon ldan pa zhig yod rgyu'i re ba byas med 
+DUMMY1/SP02-OTR002-01-A-1045.wav|mngon med ngang dbyangs kyi 'gyur ba de tshod 'dzin byed rgyur cung khag tsam yod pa red 
+DUMMY1/SP02-OTR002-03-A-116.wav|gnyos lo tsa bas 
+DUMMY1/SP02-OTR002-01-A-1666.wav|yin na yang btsan byol gyi brjod gzhi'i thog gleng skabs  
+DUMMY1/SP02-OTR002-02-A-214.wav|bod yul dud 'gro'i gling dang 'dra ba 'di la 
+DUMMY1/SP02-OTR002-04-A-089.wav|skabs der jo bos 
+DUMMY1/SP02-OTR002-01-B-1425.wav|bsam pa rnam par dag pa'i gnas skor ba yin na brtsi mthong zhus dgos pa dang srol rgyun 'dir srung brtsi zhus dgos pa los yin pa las 
+DUMMY1/SP02-OTR002-01-B-1341.wav|yang dgon pa 'ga' re ni bskyar skrun yang zhu thub med 
+DUMMY1/SP02-OTR002-01-B-0778.wav|yin na'ang yang kho mos dpog par dka' ba'i ming thob thog nas  
+DUMMY1/SP02-OTR002-01-A-1156.wav|khong tshos che tshang rin po cher kha phyogs nas  
+DUMMY1/SP02-OTR002-03-B-052.wav|mar pa'i gzim khang dang nye ba'i bar du song 
+DUMMY1/SP02-OTR002-08-B-036.wav|myang tsha dkar rgyan gyis bu mo'i gtam de bden nam mi bden snyam bzhin 
+DUMMY1/SP02-OTR002-01-B-0993.wav|khong gi gcen pos glo bur du khong dgon pa nas phyir khrid de khong la bros byol du ma phyin na 'grig thabs mi 'dug 
+DUMMY1/SP02-OTR002-01-B-1301.wav|'jar man gyi srol rgyun rig gzhung la srung skyob dang bskyar gso'i thebs rtsa tshogs pa zhig gis  
+DUMMY1/SP02-OTR002-01-B-1092.wav|bstan 'dzin gyi brjod par 
+DUMMY1/SP02-OTR002-01-B-1234.wav|pan chen g+hu ya sgang pas bka' bzhin dgon pa phyag btab nas  
+DUMMY1/SP02-OTR002-02-C-015.wav|lkog nas mdo rgyud kyi gzhung lugs mang po bod skad du sgyur bzhin yod pa red 
+DUMMY1/SP02-OTR002-03-B-171.wav|sras dar ma mdo sdes dga' ba'i 'dzum dang bcas 
+DUMMY1/SP02-OTR002-01-A-1672.wav|rang nyid kyi khyim gzhis med pa chags med la 
+DUMMY1/SP02-OTR002-08-C-046.wav|chos kyi don du ngas dka' sdug gang 'dra zhig yin yang bzod thub 
+DUMMY1/SP02-OTR002-01-A-1212.wav|tha na rtsa mda' rdzong yin na yang 'dra 
+DUMMY1/SP02-OTR002-01-A-0056.wav|dngos po'i rmang gzhi'i 'dzugs skrun nas mi sna dang  
+DUMMY1/SP02-OTR002-02-A-193.wav|'on kyang bslabs na nges par shes yongzhes lan phul pa red  
+DUMMY1/SP02-OTR002-01-A-1317.wav|mnga' ris kyi shon gyi zhabs bro 'di ni mnga' ris khul du lhag pa'i shon gyi zhabs bro'i rigs shig yin zhing  
+DUMMY1/SP02-OTR002-01-A-0008.wav|lo rabs drug bcu'i nang  
+DUMMY1/SP02-OTR002-01-A-1480.wav|yang na rang 'gul gyi rdzun bzo byed kyi yod 
+DUMMY1/SP02-OTR002-01-B-1256.wav|gangs rin po che srung mkhan gyi dpa' bstul ltar 'dug 
+DUMMY1/SP02-OTR002-08-C-066.wav|ces rtsig pa yongs rdzogs zhig tu bcug pa red 
+DUMMY1/SP02-OTR002-03-A-067.wav|chung na khyim gyi nor dang zhing sa dang bcas pa pha rol pa zhig gi lag tu skyel ba 'dug”ces rgyun par bka' bkyon gtong gi yod 
+DUMMY1/SP02-OTR002-01-A-0886.wav|'bri gung skyabs mgon che tshang rin po che dang nub pa rin po che 
+DUMMY1/SP02-OTR002-08-A-154.wav|ngas nyi ma de ring nas bzung a ma'i blo pham pa'i bya ba gtan nas mi byed”  
+DUMMY1/SP02-OTR002-06-B-124.wav|rtsa chen po gang yang med snyam pa'i log rtog ngan pa zlog mi thub 
+DUMMY1/SP02-OTR002-01-B-0808.wav|gangs rin po che nas rgyal khams 'grim te phebs mkhan dge 'dun pa zhig 'phrad pa dang  
+DUMMY1/SP02-OTR002-01-A-0743.wav|rnam shes dang bla srog 
+DUMMY1/SP02-OTR002-01-B-0228.wav|'od zer lags 
+DUMMY1/SP02-OTR002-09-A-25.wav|zhes a rig rin po che'i mdun du khas len zhus pa red 
+DUMMY1/SP02-OTR002-02-A-098.wav|ba ro tsa na de las cung thag nye ba'i sar byis pa rnams dang mnyam du rtsed mo rtse bzhin bsdad pa red 
+DUMMY1/SP02-OTR002-01-A-0252.wav|yang gzhon skyes dge 'dun pa'i rnam 'gyur ni sems mug drag po zhig 'dug la 
+DUMMY1/SP02-OTR002-08-A-122.wav|rgyun du a ma dang mnyam las byed kyi yod par ma zad 
+DUMMY1/SP02-OTR002-01-B-0626.wav|'bri gung che tshang rin po ches  
+DUMMY1/SP02-OTR002-03-B-062.wav|gyas gyon nye 'khor du yod pa rnams kyis 
+DUMMY1/SP02-OTR002-01-A-0082.wav|de snga bal yul gyi mnga' khongs su tshud pa'i glo sman thang khul du  
+DUMMY1/SP02-OTR002-04-A-056.wav|de dus gung thang lo tsa bas bskyar du min zhes u tshugs zhu ma nus par 
+DUMMY1/SP02-OTR002-01-A-1274.wav|ngas kyang 'dir zin nas ma bsdad par rang gcig pu khrel dgod byas te 'grig gi red 
+DUMMY1/SP02-OTR002-01-A-0604.wav|gus mo ni mi'i rigs kyi rig pa'i mkhas pa zhig min la 
+DUMMY1/SP02-OTR002-01-A-0192.wav|glo smon thang zer 'bod pa'i sa cha 'di dran byung  
+DUMMY1/SP02-OTR002-01-A-1083.wav|gcig ni 'khor chags dgon gyi dngul gyi rigs gsum mgon po'i sku brnyan dang 'brel ba yod pa dang  
+DUMMY1/SP02-OTR002-01-A-1778.wav|rang dgar brgal thub pa'i 'dzul mi thub pa med pa nang bzhin red 'dug 
+DUMMY1/SP02-OTR002-07-A-008.wav|dgung lo bcu pa'i thog bsam yas su phebs 
+DUMMY1/SP02-OTR002-02-A-031.wav|shing 'bras sna tshogs yod pa'i spang gshong zhig tu bzhag ste 
+DUMMY1/SP02-OTR002-01-A-0329.wav|khong gis skar ma nyi shu tsam gyi sgra bcug gsung 'phrin zhig brtsal gnang par 
+DUMMY1/SP02-OTR002-08-B-111.wav|zhes snying tshim pa'i spro snang dang bcas phyir bla ma'i drung du bcar ba'i skabs 
+DUMMY1/SP02-OTR002-08-B-044.wav|lha bla ma dkon mchog gsum 
+DUMMY1/SP02-OTR002-01-B-1451.wav|khong tsho'i yul skor khul gsar spel gyi rnam grangs zer de'i khongs su yul skor du skyod yul gsar spel dang  
+DUMMY1/SP02-OTR002-03-B-042.wav|nam zhig dus la babs pa na 
+DUMMY1/SP02-OTR002-01-A-0101.wav|yang der lam yig dang yang na de min 'grul bzhud lag 'khyer dgos kyi med 
+DUMMY1/SP02-OTR002-02-C-090.wav|rgya gar gsang myul bas bshad pa'i rdzun gtam de dag  
+DUMMY1/SP02-OTR002-07-A-105.wav|gso rig gi bgro gleng tshogs 'du zhig tshogs rgyu'i thag gcod mdzad 
+DUMMY1/SP02-OTR002-06-B-083.wav|chu chen mang por lcags zam btsugs pa 
+DUMMY1/SP02-OTR002-06-A-072.wav|glag rgod de dag gis khro bo dpal ldan la gnod 'tshe gtan nas byed kyi med par ma zad 
+DUMMY1/SP02-OTR002-08-C-062.wav|a nga'i bkod pa nor 'dug 
+DUMMY1/SP02-OTR002-03-A-070.wav|mtha' na rtsed mo rtse rogs shig kyang med par kher rkyang du gyur pa na 
+DUMMY1/SP02-OTR002-01-B-0141.wav|rnam 'gyur gyi thog nas phran bu'i yid skyo ba lta bu 'dug 
+DUMMY1/SP02-OTR002-08-A-191.wav|khong tsho'i mthu dang 'u cag gi mthu mi 'dra 
+DUMMY1/SP02-OTR002-08-A-149.wav|zer bzhin a ma la 'tham ste ngus 
+DUMMY1/SP02-OTR002-06-B-004.wav|gzhan pa'i las don gang la zhugs kyang blo rig gsal zhing 
+DUMMY1/SP02-OTR002-02-A-046.wav|spre'u nags gseng du bros song 
+DUMMY1/SP02-OTR002-01-A-1573.wav|dang thog chos lugs dang srol rgyun gyi don snying ldan pa'i sa cha 'di  
+DUMMY1/SP02-OTR002-02-A-183.wav|slob dpon gyis nga la lung bstan pa'i byis pa de 'di yin pa 'dug 
+DUMMY1/SP02-OTR002-01-A-0736.wav|gus mos dngos su mjal ba lta bu byung  
+DUMMY1/SP02-OTR002-01-B-0399.wav|thag ha cang nye ba dang  
+DUMMY1/SP02-OTR002-03-B-219.wav|de dus zhang pos 
+DUMMY1/SP02-OTR002-01-B-0818.wav|sa gnas 'di'i mi dmangs kyi nyin re'i 'tsho ba dang bsam pa'i 'tsho ba'i nang gnas yod pa las 
+DUMMY1/SP02-OTR002-08-B-099.wav|de dus yul skya rnga rtsa ni sngar byung myong med pa lta bu'i lo legs shing 
+DUMMY1/SP02-OTR002-05-A-73.wav|grogs su dang 'grogs kyang rung 
+DUMMY1/SP02-OTR002-01-B-1298.wav|'bri gung skyabs mgon che tshang rin po cher dgon pa nyams gso zhu rgyu zhus pa dang  
+DUMMY1/SP02-OTR002-01-A-1443.wav|deng rabs can gyi nang med pa chags pa zer ba las  
+DUMMY1/SP02-OTR002-08-A-172.wav|dka' khag che ba'i las don gang 'dra sgrub dgos kyang 'jigs zhum gtan nas med 
+DUMMY1/SP02-OTR002-02-C-179.wav|de nas bdud blon rnams kyis ba ro tsa na rgyal mo tsha ba rong du gnas dbyung gtong rgyu'i thag gcod byas pa red 
+DUMMY1/SP02-OTR002-01-A-1070.wav|spyi'i cha nas tshang ma mu mthud rgyun 'dzin thub pa chags yod 
+DUMMY1/SP02-OTR002-01-B-0063.wav|rgya nag gi tshan rig pas skyon brjod byed pa'i skor  
+DUMMY1/SP02-OTR002-01-A-1960.wav|rgya nag dang byang ko ri ya'i sa mtshams nas  
+DUMMY1/SP02-OTR002-01-A-0046.wav|dpal 'byor gyi gnas stangs la  
+DUMMY1/SP02-OTR002-01-A-0944.wav|shon zhes pa 'di gang yin nges par du 'brel bshad cig zhu dgos pa 'dug 
+DUMMY1/SP02-OTR002-02-B-026.wav|de ltar byung ba yin na ma 'ongs par bod kyi chos dang rig gzhung gi gnas stangs khyad par ba zhig yong rgyu yin pa  
+DUMMY1/SP02-OTR002-01-B-0345.wav|lam de bod kyi spu hreng bar shar skyod thub kyi yod 'dug 
+DUMMY1/SP02-OTR002-09-A-30.wav|yi thang chad pa'i gnas tshul mang po yong gi yod 
+DUMMY1/SP02-OTR002-01-B-0262.wav|'di ni ha cang ring ba'i sgrung gtam zhig red ces dang  
+DUMMY1/SP02-OTR002-01-B-0466.wav|da dung ral pa chags 'dug 
+DUMMY1/SP02-OTR002-01-B-0481.wav|rnal 'byor pa'i ral pa can gyi dbu skrar mtshams skra zer 'bod kyi yod pas 
+DUMMY1/SP02-OTR002-01-B-0490.wav|nga rang rtsom yig 'bri mkhan zhig gi ngos nas  
+DUMMY1/SP02-OTR002-01-A-0577.wav|skyon brjod byas yod 
+DUMMY1/SP02-OTR002-01-A-0894.wav|ri khrod la mtshams khang sogs gnas yod pa 'di rnams la  
+DUMMY1/SP02-OTR002-03-A-095.wav|pha ma gnyis la yang 
+DUMMY1/SP02-OTR002-07-A-107.wav|rgya nag 
+DUMMY1/SP02-OTR002-07-A-125.wav|kho yang de ring rnam pa tsho dang lhan du bgro gleng tshogs 'du la mnyam zhugs byed kyi yod 
+DUMMY1/SP02-OTR002-01-A-0244.wav|la rtser rlung bu'i khrod rin po che bgres song khong gis rgyun ring po zhig bzhengs nas bzhugs shing  
+DUMMY1/SP02-OTR002-01-A-0523.wav|dang thog dus rabs bcu bzhi nang rgyal khab btsugs shing dus rabs bco brgyad nang bal yul gyi mnga' khongs su tshud yod 
+DUMMY1/SP02-OTR002-08-B-007.wav|'di ltar yul du phyin tshe a ma lcebs te 'chi nges yin pas 
+DUMMY1/SP02-OTR002-01-B-0964.wav|yang spyi lo 2003lor g+hong kra'o ha greng dpe skrun khang nas par bskrun gnang pa'i deb 'di  
+DUMMY1/SP02-OTR002-01-A-1865.wav|'dzam gling yongs nang  
+DUMMY1/SP02-OTR002-01-B-1012.wav|grang ngar che la 
+DUMMY1/SP02-OTR002-08-C-093.wav|bla mas thugs dgongs yag po bzhes te 
+DUMMY1/SP02-OTR002-01-A-1541.wav|bar skor skor lam thog  pizza hut zer ba dang kfc zer ba'i za khang btsugs pa 
+DUMMY1/SP02-OTR002-01-A-1214.wav|shon bro chu lud pa ltar khyab gdal btang yod pa ste 
+DUMMY1/SP02-OTR002-01-A-0620.wav|'di'i khrod nas hi ma la ya'i ri brgyud du yib nas yod pa'i gle mi sa khul 'di  
+DUMMY1/SP02-OTR002-02-B-111.wav|bod la thang ta las bzang ba dang blo rno ba'i byis pa mang 
+DUMMY1/SP02-OTR002-01-A-1351.wav|drang bden ma yin pa dang yang gyo sgyu'i rnam pa zhig ldan yod pa gsal po red 
+DUMMY1/SP02-OTR002-01-A-0253.wav|rgyang ring du yod pa'i bod kyi ri klung chu bo 
+DUMMY1/SP02-OTR002-01-A-0136.wav|'di ni sa mtshams thog sa 'og tu rgyugs pa'i chu bzhin mi mngon pa'i byed stangs rang red 
+DUMMY1/SP02-OTR002-02-A-225.wav|cis kyang bdag la bka' ni mi stsol zhu 
+DUMMY1/SP02-OTR002-08-A-167.wav|nged ma smad gnyis la lta sa zhig yod pa ni thos pa dga' khyod yin 
+DUMMY1/SP02-OTR002-01-A-1084.wav|gus mos de'i sngon la ngo sprod zhu myong yod 
+DUMMY1/SP02-OTR002-01-A-0659.wav|byed lugs byed stangs ni  
+DUMMY1/SP02-OTR002-02-C-148.wav|skabs der rgyal pos 
+DUMMY1/SP02-OTR002-01-A-1998.wav|gzab nan ngang brjod par 
+DUMMY1/SP02-OTR002-02-B-042.wav|sangs rgyas kyi chos la slob sbyong mthil phyin pa zhig byed thub dgos pa shin tu gal che 
+DUMMY1/SP02-OTR002-04-A-075.wav|rim pas nga tshos thabs gang bde byed ”gsungs pa red 
+DUMMY1/SP02-OTR002-09-A-68.wav|gus pa'i nyams dang bcas 
+DUMMY1/SP02-OTR002-08-A-160.wav|thos pa dgas skyo snang dang blo pham stobs shugs su bsgyur te 
+DUMMY1/SP02-OTR002-01-A-0599.wav|'di ni sa mtshams kyi dbye ba phye pa dang  
+DUMMY1/SP02-OTR002-01-A-1394.wav|lta dus gcig rang las lhag med pa'i rgyun 'dzin par  
+DUMMY1/SP02-OTR002-01-A-1713.wav|rtag tu spyi nor 7gong sa skyabs mgon chen po mchog  
+DUMMY1/SP02-OTR002-01-A-0897.wav|'di rnams thams cad kyis ha cang sa zhing brtan pa'i 'brel thag cig grub yod pa dang  
+DUMMY1/SP02-OTR002-01-B-0077.wav|tha na nyin gsum gyi dus tshod btang ste gangs skor rgyab dgos thub kyi yod pas las sgrib yang po min pa ngos 'dzin byed kyi yod 
+DUMMY1/SP02-OTR002-09-A-60.wav|shin tu skad grags can zhig yod pa khong bzhengs te 
+DUMMY1/SP02-OTR002-01-A-1935.wav|bal yul du bca' sdod gzab mchor mdzes 'chos byas pa'i rgya nag gi bud med gzhung tshab chen mo'i skor 'di ltar bris yod pa ste 
+DUMMY1/SP02-OTR002-01-A-0895.wav|de bas shugs drag che ba'i gong bur 'gril shugs kyi nus pa zhig ldan pa dang  
+DUMMY1/SP02-OTR002-01-B-0487.wav|gus mo gangs skor la skyod skabs 'phrad pa'i gnas skor ba dkyus ma de tsam red mi 'dug 
+DUMMY1/SP02-OTR002-01-A-0627.wav|lha sgrung dang cho ga 
+DUMMY1/SP02-OTR002-01-A-0772.wav|khrag rus gi rgyud pa dang 'dra ba'i lkog gyur gyi rnam pa zhig mngon thub rgyu dang  
+DUMMY1/SP02-OTR002-01-A-0885.wav|de bzhin rin po che mang po yod pa dper na 
+DUMMY1/SP02-OTR002-08-C-184.wav|mar pa'i slob ma ka chen bzhi'i nang gi sgrub pa'i bka' bab kyi slob ma gtso bor gyur pa red 
+DUMMY1/SP02-OTR002-06-A-118.wav|khro bo dpal ldan gyis 
+DUMMY1/SP02-OTR002-01-A-1126.wav|bod pas dad sems rnam par dag pa'i ngang nas  
+DUMMY1/SP02-OTR002-01-A-1741.wav|sa gnas kyi yul mis bzos pa'i 'bru chang yang cog tse'i steng sgrig 'dug 
+DUMMY1/SP02-OTR002-03-A-045.wav|yab mar pa dbang phyug 'od zer gyi bsam par 
+DUMMY1/SP02-OTR002-04-A-055.wav|bdag cag la thabs med pas ci bya”zhes gsungs te bshum pa red 
+DUMMY1/SP02-OTR002-08-C-045.wav|bla ma rin po che 
+DUMMY1/SP02-OTR002-02-B-156.wav|bus nyan par mi 'dug snyam nas kho thag chad de 
+DUMMY1/SP02-OTR002-01-A-1689.wav|khong rnam pa'i chos rgyud ni  
+DUMMY1/SP02-OTR002-01-A-0473.wav|spro sems 'khol pa'i ngang nas rgyal po sbi ran ta ra  
+DUMMY1/SP02-OTR002-01-B-1169.wav|dgongs pa gshegs tshul bstan pa'i gnas 'di rgya yig gi rtsom yig nang brjod pa'i  
+DUMMY1/SP02-OTR002-08-B-065.wav|'di 'dra cung thal drags song zhes”zer 
+DUMMY1/SP02-OTR002-01-B-1237.wav|la dwags kyi rgyal rabs zhes pa'i nang skyobs pa 'jig rten mgon po  
+DUMMY1/SP02-OTR002-09-A-42.wav|bla sprul kun las 'tsho gos skyo shos kyi gras shig yin 
+DUMMY1/SP02-OTR002-03-A-141.wav|re zhig bod la phyin te gser gang nus shig bsgrubs pa'i rjes bskyar du rgya gar la yong thub par byed ces dgongs pa red 
+DUMMY1/SP02-OTR002-01-B-0877.wav|gle mi nas 'phros pa'i sgrung gtam ste 
+DUMMY1/SP02-OTR002-02-B-002.wav|ba ro tsa na rgya gar du shes yon slob sbyong la gtong rgyu'i thag gcod byas pa 
+DUMMY1/SP02-OTR002-07-A-087.wav|gso rig gi gzhung lugs dang lag len gnyis ka la rang bzhin gyis rig pa sad bsdad mkhan zhig yin 
+DUMMY1/SP02-OTR002-01-A-1881.wav|bal yul gyi dpon rigs shig gis rtsom pa por brjod par 
+DUMMY1/SP02-OTR002-07-A-080.wav|grong brdal nas grong khyer du shin tu mtshan snyan chen por gyur pa red 
+DUMMY1/SP02-OTR002-01-A-0767.wav|lo tsa ba rin chen bzang po mchog ni  
+DUMMY1/SP02-OTR002-08-C-150.wav|sems gting nas bla ma'i bka' gsung ji sgrub zhu ba ma gtogs 
+DUMMY1/SP02-OTR002-02-C-116.wav|yin na yang 'dis rgya gar du dgos pa'i chos ma sbyangs par 
+DUMMY1/SP02-OTR002-08-B-151.wav|thos pa dgas 
+DUMMY1/SP02-OTR002-01-A-0690.wav|da dung til yul tshor gnas pa'i kun 'dzoms dgon dang  
+DUMMY1/SP02-OTR002-01-B-1448.wav|bod ljongs yul skor ma rkang tshong gnyer khang gis bod kyi gnas ri gangs ri po che dang  
+DUMMY1/SP02-OTR002-01-B-0760.wav|khong gnyis kyi gnyen sgrig gi las dbang 'di spyi lo 1992lo bar yin zhing  
+DUMMY1/SP02-OTR002-01-A-0905.wav|da dung ha cang gal 'gangs che ba'i rgyu rkyen zhig yod pa 'di gus mos nges par du bskyar du nan brjod zhu rgyur 
+DUMMY1/SP02-OTR002-01-A-1679.wav|'on kyang khong tshos dad mos zhu yul gyi chos phyogs kyi dbu khrid dper na 
+DUMMY1/SP02-OTR002-01-B-1029.wav|gangs rin po che'i dbang gis 'phros pa'i sgrung gtam te 
+DUMMY1/SP02-OTR002-02-C-099.wav|nyin zhig ngam ta ra klu gong gis 
+DUMMY1/SP02-OTR002-01-A-1028.wav|ma yig ngo ma 'di 'tshol thabs mi 'dug 
+DUMMY1/SP02-OTR002-07-A-091.wav|rgyal pos yon tan mgon po ni 
+DUMMY1/SP02-OTR002-01-A-1647.wav|deng rabs kyi rnam pa'i thog nas mngon pa zhig red ces dang  
+DUMMY1/SP02-OTR002-01-B-1244.wav|zhang zhung gi rgyal po bco brgyad nas thogs pa'i gser gyis bzos pa'i khyung ste 
+DUMMY1/SP02-OTR002-08-B-143.wav|bdag la stod nas 'ongs pa'i mi sdig can zhig yin 
+DUMMY1/SP02-OTR002-02-C-195.wav|mun pa'i klong du sdod du 'jug ga la rung 
+DUMMY1/SP02-OTR002-01-A-0461.wav|de bzhin rkang dmag bcu shog dang dmag mi re res  
+DUMMY1/SP02-OTR002-06-A-025.wav|zlos gar 'khrab gzhung rtsom pa po 
+DUMMY1/SP02-OTR002-01-A-0072.wav|bod sdod am ban brgyud byed kyi yod 'dug 
+DUMMY1/SP02-OTR002-01-A-1765.wav|bod pa mang po'i khrod nas gus mos tshor myong yod la 
+DUMMY1/SP02-OTR002-01-A-0422.wav|phyir dran gyi deb cig yin pa ngo sprod gnang byung  
+DUMMY1/SP02-OTR002-01-B-0736.wav|che tshang rin po ches na bza' ral pa zhig bzhes nas phebs te tshogs ra'i rgyab 'dir bzhugs yod  
+DUMMY1/SP02-OTR002-01-A-0544.wav|de bzhin mtha' mtshams dang sa mtshams 'grol bazhes pa'i deb 'di gnyis red 
+DUMMY1/SP02-OTR002-01-A-0292.wav|ji ltar thal ba'i rdul du rlog yod pa da dung yang gsal po dran gyi 'dug 
+DUMMY1/SP02-OTR002-01-A-1170.wav|bud med rgan rabs tshos dal po'i ngang  
+DUMMY1/SP02-OTR002-08-B-096.wav|mu mthud mthu bsgrubs te 
+DUMMY1/SP02-OTR002-02-C-216.wav|rgyal po chen po lags 
+DUMMY1/SP02-OTR002-02-B-022.wav|'on kyang slob sbyong gi khor yug dang cha rkyen 'di tsam gyis nga tsho'i re ba yongs su 'grub pa zhig yong mi thub 
+DUMMY1/SP02-OTR002-04-A-032.wav|re zhig su gang gis kyang gsung mi byon par tshoms khang 'jam thing nger gyur 
+DUMMY1/SP02-OTR002-02-A-155.wav|ba ro tsa na khri srong lde btsan dang mjal ba 
+DUMMY1/SP02-OTR002-03-A-053.wav|byis pa blo rig bkra zhingbya ba chen po sgrub pa'i nus pa can zhig tu gzigs nas 
+DUMMY1/SP02-OTR002-08-C-171.wav|ngas kyang bla ma'i rjes su 'brangs nas nyams len gtso bo byed kyi yin”  
+DUMMY1/SP02-OTR002-01-A-1229.wav|da lta mi mang pos mdzes ris ngom pa zer ba'i 'dzam gling 'di'i nang 'tsho ba bzhin  
+DUMMY1/SP02-OTR002-02-A-073.wav|yum gyis bu chung pang kha nas gdan steng du bzhag pa na 
+DUMMY1/SP02-OTR002-08-A-116.wav|yin na yang nga tsho la mi shugs dang rgyu shugs gang yang med pas 
+DUMMY1/SP02-OTR002-05-A-78.wav|jo bo shin tu bka' drin che 
+DUMMY1/SP02-OTR002-01-A-1383.wav|zhabs bro'i khral bskyal mi thub na dpon rigs de tsho'i chung ma byed dgos pa'i nyes pa 'di 'dra phog rgyu red ces brjod yod 
+DUMMY1/SP02-OTR002-01-B-1292.wav|rig gnas gsar brje mjug bsgril pa'i rjes chos lugs la dad mos chog pa byung zhing  
+DUMMY1/SP02-OTR002-01-A-1639.wav|rgya nag dang bal yul sa mtshams su gnas pa'i bal yul gyi yul mi'i nang  
+DUMMY1/SP02-OTR002-02-A-116.wav|ngas ri bong gtan nas bsad med ces zhus kyang 
+DUMMY1/SP02-OTR002-05-A-22.wav|zhes bod kyi mkhas pa dang lo tsa ba 
+DUMMY1/SP02-OTR002-01-B-0360.wav|gle mi'i 'brog pas khong tsho'i 'bri gyag khyu dang ra lug khyu ded nas bod nang dgun dus bskyal bar 'gro srol zhig yod 
+DUMMY1/SP02-OTR002-06-B-090.wav|bsam blo gang yang ma btang bar 
+DUMMY1/SP02-OTR002-01-A-1986.wav|'brug lta bu'i rgyal khab chung chung 'di blo 'tshab ha cang chen po byung yod ces bkod 'dug 
+DUMMY1/SP02-OTR002-01-A-1727.wav|yang 'dra par gzhan zhig gi steng  
+DUMMY1/SP02-OTR002-01-B-1322.wav|khong gnyis kyis nga la bskyar skrun zhus pa'i gser gdung bcu gsum gyi 'dra par mang po sprad byung  
+DUMMY1/SP02-OTR002-01-B-0648.wav|de'i sngon gleng pa'i sku par 'di'i skor la gus mos zhu chog pa zhu rgyu dang  
+DUMMY1/SP02-OTR002-01-B-1157.wav|nang chos phyag dpe phab bsgyur gnang pa dang gtsug lag khang bzhengs mkhan gyi rin chen bzang po mchog ni  
+DUMMY1/SP02-OTR002-01-B-0029.wav|dga' nye spun mched kyi ming dang dga' nye spun mched kyi ched smon lam 'debs yod 
+DUMMY1/SP02-OTR002-02-C-233.wav|khyod da thengs pan+di ta gdan 'dren par 'gro rgyu byas par nga dga' nas yod 
+DUMMY1/SP02-OTR002-01-B-1313.wav|gangs rin po che nas 'phros pa'i sgrung gtam te 
+DUMMY1/SP02-OTR002-01-A-0652.wav|gle mi'i skyes pa mang pos bod chas gyon zhing  
+DUMMY1/SP02-OTR002-07-A-061.wav|nyin zhig bgres song gi bu mo ched du yon tan mgon pos sman bcos byed bzhin pa'i sar bcar te 
+DUMMY1/SP02-OTR002-06-B-130.wav|nga grub chen chu la 'gro lugs ji ltar byas kyang chog ces gsung bzhin 
+DUMMY1/SP02-OTR002-05-A-37.wav|mdo sde la gtsigs cher byed pa zhig yin 'dug pas 
+DUMMY1/SP02-OTR002-02-A-095.wav|a ma'i lag par 'jus te rkang thang du 'gro bzhin yod 
+DUMMY1/SP02-OTR002-08-B-100.wav|btsas ma brnga la nye bas yul mi rnams shin tu dga' spro chen pos gnas yod 
+DUMMY1/SP02-OTR002-03-B-201.wav|sras dar ma mdo sde la 
+DUMMY1/SP02-OTR002-07-A-097.wav|skabs shig nas rgyal po'i pho brang nang gi blon po dang 
+DUMMY1/SP02-OTR002-01-A-1168.wav|yang seng ge bstan 'dzin rin po ches kyang gsungs par 
+DUMMY1/SP02-OTR002-03-A-012.wav|gtsang rong gi mes ston tshon po 
+DUMMY1/SP02-OTR002-01-A-1540.wav|snang rtse shag la rgyal gces ring lugs kyi slob gso spel yul zer ba gsar btsugs byas pa dang  
+DUMMY1/SP02-OTR002-01-B-0719.wav|yin na yang skabs de dus khong dgung lo bcu bdun la phebs kyi yod pas 
+DUMMY1/SP02-OTR002-01-A-0264.wav|rgya nag gi dmag dpung btang ste thad kar bya spyod spel rgyu yin pa brjod yod 
+DUMMY1/SP02-OTR002-03-A-127.wav|kha ba can ljongs byang phyogs nas 
+DUMMY1/SP02-OTR002-01-A-0510.wav|rgya nag gi dmag dpung cha rkyen nges can 'og dang  
+DUMMY1/SP02-OTR002-01-A-1944.wav|khyab gdal phyin pa'i skabs der  
+DUMMY1/SP02-OTR002-01-B-0800.wav|go rtogs sad thub rgyu gsal po red la 
+DUMMY1/SP02-OTR002-01-B-0933.wav|'grel brjod byed mkhan gyi bshad pa ltar na 
+DUMMY1/SP02-OTR002-01-B-1248.wav|khyung dang khyung chen bya gnyis ni rig gzhung khyad chos rtsa ba nas mi 'dra ba zhig yin pas 
+DUMMY1/SP02-OTR002-02-B-097.wav|ngas thang ta blos thong gi mi 'dug 
+DUMMY1/SP02-OTR002-01-B-0935.wav|yig tshags nang bkod par gzhigs na 
+DUMMY1/SP02-OTR002-01-A-0049.wav|mtha' mtshams kyi sa khul mang che ba ni  
+DUMMY1/SP02-OTR002-01-A-0137.wav|gus mo'i deb sgrom thog tshon mdog gyur nas ser po chags pa'i deb cig yod pa ste 
+DUMMY1/SP02-OTR002-01-B-0116.wav|stes dbang gis 'phrad pa 
+DUMMY1/SP02-OTR002-01-B-1482.wav|dka' tshegs chen po'i ngang bskyar skrun zhus pa'i dgon par bskyar du yang na gtan 'khel pa'i ngang nas brjod na 
+DUMMY1/SP02-OTR002-01-A-0405.wav|smad cha 
+DUMMY1/SP02-OTR002-01-A-0363.wav|gza' 'khor gnyis kyi dus yun ring  
+DUMMY1/SP02-OTR002-01-B-0963.wav|nga'i mi tshe'i kha lo bsgyur pa'i lhug rtsom gyi deb bod kyi zin bris zhes pa'i nang bcug yod 
+DUMMY1/SP02-OTR002-02-B-070.wav|ces lan 'ga' shas dris kyang 
+DUMMY1/SP02-OTR002-02-C-044.wav|bstan pa'i snying po bod du shor tshe 
+DUMMY1/SP02-OTR002-01-A-1167.wav|don dngos thog mnyam gzhas ru khag cig dang 'dra po yod ces gsungs byung  
+DUMMY1/SP02-OTR002-01-B-0294.wav|'di la red pas in sit g+haram dra tshigs thog red pas zer brjod pa yin 
+DUMMY1/SP02-OTR002-01-A-1651.wav|sa mtshams brgal pa'i rmang gzhi'i 'dzugs skrun gyi las gzhi zer ba 'dir gzhigs pa dang  
+DUMMY1/SP02-OTR002-01-B-0744.wav|dpon rigs 'di tshig pa za nas gdong pa dmar po chags yod na yang khong khro za dgos don med pa red 
+DUMMY1/SP02-OTR002-01-A-0931.wav|dngul sku mched gsum los kyis mjal 
+DUMMY1/SP02-OTR002-01-B-1223.wav|rgyang grags dgon pa ni tag tag 'bri gung bka' rgyud kyi khongs su gtogs pa dang  
+DUMMY1/SP02-OTR002-02-C-068.wav|blo la 'dzin ma thub pa'i lhag ma rnams yi ger bris pa rgyab tu khur te 
+DUMMY1/SP02-OTR002-01-A-0178.wav|rjes su rim pas bal yul dang bod kyi phyogs gnyis kyi 'dzin skyong byed pa'i rnam pa zhig thon yod 
+DUMMY1/SP02-OTR002-01-A-0036.wav|bal yul gyi rig gnas pa zhig gis  
+DUMMY1/SP02-OTR002-02-A-115.wav|nga la ri bong gsod bsam pa gtan nas med la 
+DUMMY1/SP02-OTR002-01-B-0045.wav|spyin shog bed spyod btang ste par len byas pa las deng dus kyi par chas de 'dra ma red 
+DUMMY1/SP02-OTR002-02-B-001.wav|le'u bzhi pa 
+DUMMY1/SP02-OTR002-01-A-0949.wav|der dmigs bsal gyi khyad chos dang 'chor nyams ldan pa'i chas gos yod la 
+DUMMY1/SP02-OTR002-01-A-1072.wav|shon dang sgor gzhas 
+DUMMY1/SP02-OTR002-01-A-1508.wav|srung skyob zer ba'i nang dmigs bsal gyi dbyings zhugs nas yod pa lta bu byed kyi yod 
+DUMMY1/SP02-OTR002-08-A-178.wav|khyod kyis mthu bslabs na grub 'bras 'dod pa bzhin yong ba nga yid ches yod 
+DUMMY1/SP02-OTR002-01-A-0014.wav|de bzhin de las snga ba'i spyi lo gcig stong dgu brgya lnga bcu lor  
+DUMMY1/SP02-OTR002-09-A-39.wav|skyid sdod byas te slob sbyong la gnod skyon yong srid ”dgongs te 
+DUMMY1/SP02-OTR002-01-B-0606.wav|gcig ni rde ra don du gsung rab phyag dpe khag yod pa'i nang chos kyi dpe mdzod khang zhig gsar btsugs gnang zhing  
+DUMMY1/SP02-OTR002-01-A-2002.wav|'dzugs skrun dang dmag mi'i so lta khang mang po btsugs yod 
+DUMMY1/SP02-OTR002-02-A-198.wav|pha mas gnang na gang du yang 'gro nus zhes lan phul ba na 
+DUMMY1/SP02-OTR002-01-A-1499.wav|de bzhin gnas ri'i lho ngos kyi gle mi'i bod mi dang btsan byol gyi chos phyogs kyi dbu khrid 
+DUMMY1/SP02-OTR002-06-B-040.wav|spyod pa ngan pa rnams btul ba'i thog nas 
+DUMMY1/SP02-OTR002-09-A-61.wav|rtsed mo dang mnyam du 
+DUMMY1/SP02-OTR002-08-B-021.wav|'on kyang nga'i sar bsdad kyang khyod kyi 'dod pa 'grub pa zhig mi 'ong 
+DUMMY1/SP02-OTR002-08-C-055.wav|mi la ras pa dga' spro dang bcas 
+DUMMY1/SP02-OTR002-06-A-012.wav|lcags zam lnga bcu nga brgyad dang 
+DUMMY1/SP02-OTR002-01-B-0768.wav|khong gis mi yul nas bral zin pa'i yum la rjes dran gnang pa'i rtsom yig cig gus mos klog myong yod 
+DUMMY1/SP02-OTR002-02-C-157.wav|bar lam nas rgyal po'i thugs chos la phyogs nas btsun mo'i 'khor la de tsam thugs snang mdzad kyi med stabs 
+DUMMY1/SP02-OTR002-07-A-150.wav|lag len gyi thog nas nyams myong gang byung bcas phyogs bsdoms zhus te zhib phra zhus pa na 
+DUMMY1/SP02-OTR002-08-C-096.wav|da thengs ngas bsam blo yag po btang yod 
+DUMMY1/SP02-OTR002-06-B-053.wav|bsam blo btang nas sdod kyi yod stabs 
+DUMMY1/SP02-OTR002-07-A-039.wav|nyin zhig grong gseb cig tu dmu rdzong gi nad gzhi'i rkyen pas 
+DUMMY1/SP02-OTR002-01-A-0740.wav|yang bod phud pa'i bod zer 'bod chog pa'i  
+DUMMY1/SP02-OTR002-01-A-0618.wav|'di tsho'i nang par ris dang brnyan par 
+DUMMY1/SP02-OTR002-01-B-1041.wav|lha sar gzhis chags yod pa red 
+DUMMY1/SP02-OTR002-01-A-0862.wav|gus mo dang gle mi'i gzhon skyes kha shas shig dang lhan du yig thog dang skad cha bshad pa'i thog nas kha brda bya rgyu byung  
+DUMMY1/SP02-OTR002-01-A-1615.wav|stod cha 
+DUMMY1/SP02-OTR002-01-B-0406.wav|khong ni mi tshe gcig ring grub pa nyams len gnang mkhan 'bri gung bka' rgyud kyi dge 'dun pa zhig red 
+DUMMY1/SP02-OTR002-01-B-0197.wav|ming la krang ha'on zer ba'i rgya nag gi sgyu rtsal pas skar lnga'i dar dmar btsugs pa'i rgyas spros kyi mo da btang zhing  
+DUMMY1/SP02-OTR002-01-A-1832.wav|yang bal yul gyi gnas stangs ni zhod 'jags shig med pa dang de tsam brtan lhing med 
+DUMMY1/SP02-OTR002-02-C-187.wav|bod du sangs rgyas kyi bstan pa sngar las dar khyab chen po yong ba la 
+DUMMY1/SP02-OTR002-03-A-100.wav|bod du slob sbyong byed nus na gang thub byos 
+DUMMY1/SP02-OTR002-01-B-0568.wav|rin po cher bskyar du khri phebs mdzad sgo dang  
+DUMMY1/SP02-OTR002-01-B-0925.wav|spyi lo 2004lo'i dbyar dus su nga dang nang mi mnyam du 'bri gung 'pho ba chen mo gnang yul dngos la bcar pa dang  
+DUMMY1/SP02-OTR002-01-A-0423.wav|yang de ni bod yig thog bris pa'i khyon pod 12yod pa'i rtsom sgrig deb cig yin zhing  
+DUMMY1/SP02-OTR002-07-A-161.wav|ngag 'jam gshis drang gi byis pa lha 'dra ba zhig 'dug ces yon tan mgon por lag thal mo sbyar te gus nyams mdzad 
+DUMMY1/SP02-OTR002-06-A-127.wav|sang nyin nas bzung dus tshod nges med ring dmag la 'gro dgos kyi 'dug pas 
+DUMMY1/SP02-OTR002-02-B-011.wav|bstan pa rgyun gnas yong ba de bas kyang shin tu dka' 
+DUMMY1/SP02-OTR002-01-B-0472.wav|'dra par 'di 'brel yod rnal 'byor pa'i ngo deb dra tshigs thog yod pa dang  
+DUMMY1/SP02-OTR002-07-A-147.wav|gral dkyil du phebs te rgyal po dang mkhas pa rnams la gus pa'i nyams dang bcas 
+DUMMY1/SP02-OTR002-02-A-101.wav|ba ro dang mnyam du yong ba'i byis pa rnams kyis 
+DUMMY1/SP02-OTR002-03-B-147.wav|na bza' be dkar gcig yod pa phrag par khur 
+DUMMY1/SP02-OTR002-06-A-176.wav|nga khro bo dpal ldan gtan nas skrag gi mi 'dug”  
+DUMMY1/SP02-OTR002-07-A-076.wav|lag len 
+DUMMY1/SP02-OTR002-06-A-108.wav|rang gnas su glod grol btang ba red 
+DUMMY1/SP02-OTR002-01-A-1692.wav|da dung hi ma la ya'i ri khul du khyim gzhis chung chung 'di srung nas yod pa'i rang rigs rnams la  
+DUMMY1/SP02-OTR002-01-A-1498.wav|gangs rin po che nas rgyal khams 'grim te phebs mkhan dge 'dun pa zhig 'phrad pa dang  
+DUMMY1/SP02-OTR002-01-A-1970.wav|'byor 'bring grong tsho zer ba 'di  
+DUMMY1/SP02-OTR002-02-C-210.wav|mgo sa la drud nas 'dug pa las 
+DUMMY1/SP02-OTR002-09-A-28.wav|shin tu rgya che zhing gting zab pas 
+DUMMY1/SP02-OTR002-01-A-1033.wav|gangs rin po che nas rgyal khams 'grim te phebs mkhan dge 'dun pa zhig 'phrad pa dang  
+DUMMY1/SP02-OTR002-02-C-239.wav|shin tu gus pa'i nyams dang bcas 
+DUMMY1/SP02-OTR002-01-B-0010.wav|gangs skor 
+DUMMY1/SP02-OTR002-08-C-114.wav|de bshig kyang mi dgos 
+DUMMY1/SP02-OTR002-04-A-023.wav|phebs bsu gzab rgyas dang bcas nang du gdan 'dren zhus 
+DUMMY1/SP02-OTR002-01-A-1758.wav|de snga spyi lo 2002lor red 
+DUMMY1/SP02-OTR002-01-A-1847.wav|bod skad thog gsol ras zer ba 'di zhu yi yod 
+DUMMY1/SP02-OTR002-01-B-1371.wav|rmi lam glog dang sprin lta bu 
+DUMMY1/SP02-OTR002-01-A-1435.wav|der brten dpon rigs kyi do snang dang dbyings la bstun thabs byas te 'khrab ston 'di dril bsgrags la 'gyur ba btang gi yod pas 
+DUMMY1/SP02-OTR002-01-B-0471.wav|yin na'ang de las mang ba'i 'brel yod ngo sprod mi 'dug ces brjod 'dug 
+DUMMY1/SP02-OTR002-02-C-075.wav|mtshan mo rgyal po khri srong lde btsan nyid la gsang sngags kyi chos gsungs 
+DUMMY1/SP02-OTR002-01-A-0640.wav|brda ma'i sgra sgrogs pa dang yang 'di ni tag tag bod kyi pho brang nang gi zhabs bro zer 'bod pa'i  
+DUMMY1/SP02-OTR002-09-A-69.wav|shing bza' sku skyes 
+DUMMY1/SP02-OTR002-01-B-0520.wav|mtha' dmar po'i sge'u khung la ldir nas 'phen pa dang nang du 'bar gas yong gi yod pas 
+DUMMY1/SP02-OTR002-01-A-0961.wav|de yang da lta'i hi ma la ya'i ri brgyud kyi sa mtshams kyi phyogs gnyis nang dar khyab yod pa red 
+DUMMY1/SP02-OTR002-08-B-125.wav|khyod kyis thar pa'i lam sna zin pa zhig byos 
+DUMMY1/SP02-OTR002-03-A-079.wav|slob sbyong gi mthun rkyen gang dgos pa thams cad ngas bsgrub”ces zer nas bshad pa red 
+DUMMY1/SP02-OTR002-02-C-132.wav|khyed blon po rnams kyis bod kyi bde don la bsam blo gtong dgos 
+DUMMY1/SP02-OTR002-01-A-0786.wav|rdo ring  
+DUMMY1/SP02-OTR002-08-A-001.wav|rje btsun mi la ras pa  
+DUMMY1/SP02-OTR002-06-A-057.wav|pha mas ma shes pa'i lkog tu rtsam pa dang 
+DUMMY1/SP02-OTR002-02-A-089.wav|mi tshogs mang po zhig brel brel 'tshub 'tshub kyis ltad mor lta bar 'gro bzhin yod pa red 
+DUMMY1/SP02-OTR002-01-A-0126.wav|'tshol zhib byas pa brgyud 
+DUMMY1/SP02-OTR002-02-A-215.wav|khyod kyi bu 'di shin tu mkho che gsungs nas 
+DUMMY1/SP02-OTR002-01-B-0505.wav|gus mos 'bri gung skyabs mgon che tshang rin po che yin pa shes byung zhes brjod pa las 
+DUMMY1/SP02-OTR002-01-A-1563.wav|de bzhin gang sar btsugs pa'i che chung 'dra min gyi skar lnga'i dar dmar sogs yod pa des  
+DUMMY1/SP02-OTR002-01-A-1397.wav|gang ltar rang nyid kyi gnas bab zhan pa'i mi tshe'i lo rgyus 'di  
+DUMMY1/SP02-OTR002-06-A-033.wav|yul mi rnams la bsam yul las 'das pa'i sprul pa sna tshogs ston mkhan zhig yin 
+DUMMY1/SP02-OTR002-01-B-0068.wav|da cha nga rang blo 'gyod che shos ni gangs skor la 'gro dus gom pa mgyogs thag chod 'dug 
+DUMMY1/SP02-OTR002-07-A-047.wav|nad gzhi 'di nga la bcos thabs yod pas 
+DUMMY1/SP02-OTR002-01-A-0626.wav|de bzhin skad dang yi ge 
+DUMMY1/SP02-OTR002-01-A-0333.wav|go la 'di'i thog gi rgyal khab che shos dang kha gtad byas yod ces dang  
+DUMMY1/SP02-OTR002-04-A-041.wav|lo tsa ba rang gi gdan khri las yar bzhengs tsam byas te 
+DUMMY1/SP02-OTR002-02-C-213.wav|blon po rnams kyi khrod nas chos kyi blon po lo tsa ba dge slong 'khon klu'i dbang po bya ba 
+DUMMY1/SP02-OTR002-01-A-0884.wav|khong tshos dad pa zhu yul 'bri gung bka' rgyud dang  
+DUMMY1/SP02-OTR002-04-A-005.wav|'dul ba la shin tu mkhas shing nyams len la bzang bas 'dul 'dzin pa zhes grags pa shin tu che 
+DUMMY1/SP02-OTR002-07-A-144.wav|lan gang 'dra gsung rgyu yin nam snyam pa'i brel 'tshab kyi rnam pa dang bcas lan la bsgugs nas yod pa red 
+DUMMY1/SP02-OTR002-01-A-1720.wav|khong tsho'i ra lug la dwags kyi 'brog rwa'i nang ma 'gro rang 'gro yong gi yod 'dug 
+DUMMY1/SP02-OTR002-01-B-0575.wav|de bzhin gnas ri'i lho ngos kyi gle mi'i bod mi dang btsan byol gyi chos phyogs kyi dbu khrid 
+DUMMY1/SP02-OTR002-01-B-1314.wav|rgyang grags dgon pa'i skye ba snga ma dang da lta'i gnas stangs 
+DUMMY1/SP02-OTR002-06-A-068.wav|khro bo dpal ldan gyis dud 'gro la chos bshad kyi 'dug ces mang tshogs nang skad grags chen por gyur pa red 
+DUMMY1/SP02-OTR002-08-B-161.wav|bla ma'i zhal nas 
+DUMMY1/SP02-OTR002-01-B-0601.wav|da dung nang chos slob gnyer khang dang btsun dgon 
+DUMMY1/SP02-OTR002-01-A-0147.wav|skad grags yod pa'i bod rig pa'i mkhas pa zer 'bod kyi yod 'dug 
+DUMMY1/SP02-OTR002-01-B-0756.wav|1980lo'i snga rjes la zhing pa dang ar 'dam pa gnang myong zhing  
+DUMMY1/SP02-OTR002-01-B-0636.wav|der dgon pa'i gna' bo'i ldebs ris dang 'dzugs skrun nyams gso gnang pa ma zad 
+DUMMY1/SP02-OTR002-08-B-017.wav|mthu'i rtags ma thon par yul du log tshe a ma lcebs te 'chi nges yin pa sogs 
+DUMMY1/SP02-OTR002-01-B-1502.wav|rgyang grags dgon pa 'di las sla po zhig rtsa ba nas ma red 
+DUMMY1/SP02-OTR002-02-B-029.wav|skabs der rgyal po khri thog nas bzhengs te 
+DUMMY1/SP02-OTR002-01-A-1940.wav|bal yul gyi srid don mi sna re re bzhin thug 'phrad byas pa zer bris 'dug 
+DUMMY1/SP02-OTR002-02-C-169.wav|bod kyi rgyal khrims 'jig par gda'o 
+DUMMY1/SP02-OTR002-07-A-035.wav|nad pa des kyang 'thad pa'i brda la mig gnyis btsum nas mgo bo gug gug byas 
+DUMMY1/SP02-OTR002-02-A-045.wav|bu chung gis spre'u'i rjes la lta bzhin 
+DUMMY1/SP02-OTR002-06-B-106.wav|gru pa rnams snying rje 
+DUMMY1/SP02-OTR002-04-A-068.wav|jo bo rje'i gdan sa bi kra ma la shi lar phyin pa red 
+DUMMY1/SP02-OTR002-08-C-060.wav|mkhar zlum po de phyed tsam longs pa'i skabs shig la 
+DUMMY1/SP02-OTR002-01-A-0315.wav|'dir gus mos tshig phreng kha shas shig las gdam thabs mi 'dug 
+DUMMY1/SP02-OTR002-08-B-067.wav|nga tshor god chag 'di 'dra byung ba'i skabs 
+DUMMY1/SP02-OTR002-01-A-0386.wav|ka ta man rdu'i btson khang gtso bo 'di chags kyi yod pas 
+DUMMY1/SP02-OTR002-02-A-035.wav|nags gseng nas spre'u zhig yong ste shing 'bras sna tshogs btog nas ba ro tsa na la sprad par ma zad 
+DUMMY1/SP02-OTR002-01-A-0539.wav|gus mos dra rgya brgyud dpe tshogs shig mngag nyo byas pa ste 
+DUMMY1/SP02-OTR002-01-A-0095.wav|bal yul dang rgya nag gi sa mtshams brgyud la 'gag sgo gtso bo drug yod pa dang  
+DUMMY1/SP02-OTR002-02-C-082.wav|phrag dog gis ma bzod par bod kyi rgyal blon tsho'i bar la mi mthun pa'i 'gal ba bslang rgyu'i gros ngan bsham pa red 
+DUMMY1/SP02-OTR002-02-C-205.wav|skabs der ngam ta ra klu gong sogs blon po mang po zhig la 
+DUMMY1/SP02-OTR002-01-A-0059.wav|rtsom yig nang lo rgyus thog gi bal yul dang bod kyi 'brel ba'i skor la snying bsdus shig 'grel brjod byas pa dper na 
+DUMMY1/SP02-OTR002-06-B-107.wav|khong tsho rgyu la rngam rgyu mang drags pas mi drag dang rgyu chen rnams gtsang por bor 'dren byed pa las 
+DUMMY1/SP02-OTR002-08-B-009.wav|mu mthud bla ma'i drung du 'dug rgyu thag bcad pa red 
+DUMMY1/SP02-OTR002-07-A-093.wav|rang bzhin drang la ngag 'jam pa sogs 
+DUMMY1/SP02-OTR002-06-B-059.wav|rang nyid la ming grags yong thabs gtso bo byas te 
+DUMMY1/SP02-OTR002-08-C-134.wav|mi la ras par chos kyi bdud rtsi thob pa 
+DUMMY1/SP02-OTR002-08-A-054.wav|a khu dang a nes rogs ram bya rgyu yin pa'i yid ches byed kyi yod kyang 
+DUMMY1/SP02-OTR002-04-A-040.wav|zhal bzhes yong bar zhu”zhes gsungs pa na 
+DUMMY1/SP02-OTR002-03-A-098.wav|pha ma spun mched kun gyis kha mthun par 
+DUMMY1/SP02-OTR002-01-B-0692.wav|'di rnams tshang ma ni dbang sdem dbang sgyur pas ched mngags bed spyod byed pa'i tha snyad cig red 
